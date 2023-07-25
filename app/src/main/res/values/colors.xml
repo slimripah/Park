@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <color name="gas">#00000000</color>
+    <color name="smoke">#f5f5f5</color>
+    <color name="white">#ffffff</color>
+
+    <color name="lightGrey">#CACACA</color>
+    <color name="grey">#757575</color>
+    <color name="tan">#353A41</color>
+
+</resources>

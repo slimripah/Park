@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="app_name">Park</string>
+
+    <string name="content_description">image</string>
+    <string name="developer">powered by mwinzi</string>
+
+    <string name="dashboard">enter the car details</string>
+    <string name="plate">License Plate Number</string>
+    <string name="next">Finish</string>
+    <string name="print">Print</string>
+
+    <string name="select">click to open camera</string>
+    <string name="upload">Upload Image</string>
+
+</resources>
